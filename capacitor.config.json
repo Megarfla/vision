@@ -1,0 +1,13 @@
+{
+  "appId": "com.visioniptv.pro",
+  "appName": "Vision IPTV Pro",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "Keyboard": {
+      "resize": "none"
+    }
+  }
+}
